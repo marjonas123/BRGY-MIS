@@ -187,7 +187,7 @@
           <img src="assets\AdminLTE-3.2.0\dist/img/avatar3.png" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Kriztmar Baladad</a>
+          <a href="#" class="d-block">Ken Masohistani</a>
           <i style="color: white; font-size: 14px;">Administrator</i>
         </div>
       </div>
